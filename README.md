@@ -155,7 +155,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## 🔗 **Links**
 
 - [Documentation](#)
-- [GitHub Repository](https://github.com/your-username/top-overlay-navbar)
+- [GitHub Repository](https://github.com/RitikWeb22/top-overlay-navbar.git)
 ```
 
 This **README.md** file is now organized with detailed installation instructions, usage, and customization steps. It includes a section on contributing, license, and links to make it a complete and professional guide. You can easily replace placeholders like the GitHub repository link and documentation link with your actual links.
